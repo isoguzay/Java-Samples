@@ -1,6 +1,6 @@
-package com.ioay.javasamples;
+package com.ioay.javasamples.samples;
 
-public class TypeConversionsClass {
+public class TypeConversions {
 
     public static void main(String args[]){
 

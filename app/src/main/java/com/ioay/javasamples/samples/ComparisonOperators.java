@@ -1,6 +1,6 @@
-package com.ioay.javasamples;
+package com.ioay.javasamples.samples;
 
-public class ComparisonOperatorsClass {
+public class ComparisonOperators {
 
     public static void main(String args[]) {
 

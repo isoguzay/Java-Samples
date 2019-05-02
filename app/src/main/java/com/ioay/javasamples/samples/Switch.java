@@ -1,6 +1,6 @@
-package com.ioay.javasamples;
+package com.ioay.javasamples.samples;
 
-public class SwitchClass {
+public class Switch {
 
     public static void main(String args[]){
 

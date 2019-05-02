@@ -1,9 +1,9 @@
-package com.ioay.javasamples;
+package com.ioay.javasamples.samples;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class IfStatementsClass {
+public class IfStatements {
 
     public static void main(String args[]){
 

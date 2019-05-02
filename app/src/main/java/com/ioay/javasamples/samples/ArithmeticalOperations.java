@@ -1,6 +1,6 @@
-package com.ioay.javasamples;
+package com.ioay.javasamples.samples;
 
-public class ArithmeticalOperationsClass {
+public class ArithmeticalOperations {
 
     public static void main(String args[]){
 

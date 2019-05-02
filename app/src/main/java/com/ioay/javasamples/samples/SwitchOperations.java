@@ -1,8 +1,8 @@
-package com.ioay.javasamples;
+package com.ioay.javasamples.samples;
 
 import java.util.Scanner;
 
-public class SwitchOperationsClass {
+public class SwitchOperations {
 
     public static void main(String args[]){
 
