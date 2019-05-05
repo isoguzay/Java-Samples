@@ -14,7 +14,7 @@ public class ArrayOperations {
 
         System.out.println(Arrays.toString(luckyNumbers));
 
-        String [] luckyDays = {"Saturday", "Monday"};
+        String luckyDays[] = {"Saturday", "Monday"};
 
         System.out.println(luckyDays[1]);
 
