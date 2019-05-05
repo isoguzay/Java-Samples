@@ -17,7 +17,7 @@ public class NameRepeaterLoopSample {
         int count = scan.nextInt();
 
         for (int x = 0; x < count; x++) {
-            System.out.println("Your name is " + name + " Count is " + (x+1));
+            System.out.println("Your name is " + name + " Count is " + (x + 1));
         }
     }
 }

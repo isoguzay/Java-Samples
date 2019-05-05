@@ -14,11 +14,14 @@ public class ArrayOperations {
 
         System.out.println(Arrays.toString(luckyNumbers));
 
-        String luckyDays[] = new String[3];
+        String [] luckyDays = {"Saturday", "Monday"};
 
-        luckyDays[0] = "Saturday";
+        System.out.println(luckyDays[1]);
 
-        System.out.println(luckyDays);
+        luckyDays[1] = "Wednesday";
+
+        System.out.println(Arrays.toString(luckyDays));
+
 
     }
 }
