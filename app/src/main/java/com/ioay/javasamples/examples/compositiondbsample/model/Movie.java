@@ -6,17 +6,17 @@ public class Movie {
     private String movieName;
     private int movieYear;
     private Category category;
-    private Movie movie;
+    private Director director;
 
     public Movie() {
     }
 
-    public Movie(int movieId, String movieName, int movieYear, Category category, Movie movie) {
+    public Movie(int movieId, String movieName, int movieYear, Category category, Director director) {
         this.movieId = movieId;
         this.movieName = movieName;
         this.movieYear = movieYear;
         this.category = category;
-        this.movie = movie;
+        this.director = director;
     }
 
     public int getMovieId() {
@@ -51,11 +51,11 @@ public class Movie {
         this.category = category;
     }
 
-    public Movie getMovie() {
-        return movie;
+    public Director getDirector() {
+        return director;
     }
 
-    public void setMovie(Movie movie) {
-        this.movie = movie;
+    public void setDirector(Director director) {
+        this.director = director;
     }
 }
