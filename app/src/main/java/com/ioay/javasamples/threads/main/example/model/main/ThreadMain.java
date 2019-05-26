@@ -1,4 +1,4 @@
-package com.ioay.javasamples.threads.main;
+package com.ioay.javasamples.threads.main.example.model.main;
 
 public class ThreadMain {
 
