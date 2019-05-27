@@ -1,4 +1,4 @@
-package com.ioay.javasamples.threads.main.examplethreads.model;
+package com.ioay.javasamples.threads.examplethreads.model;
 
 public class Bank {
 

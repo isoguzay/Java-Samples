@@ -1,6 +1,6 @@
-package com.ioay.javasamples.threads.main.example.model.main;
+package com.ioay.javasamples.threads.example.main;
 
-import com.ioay.javasamples.threads.main.example.model.model.Student;
+import com.ioay.javasamples.threads.example.model.Student;
 
 public class ThreadObjectMain {
 

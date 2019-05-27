@@ -1,4 +1,4 @@
-package com.ioay.javasamples.threads.main.example.model.main;
+package com.ioay.javasamples.threads.example.main;
 
 public class SecondThread implements Runnable {
     @Override

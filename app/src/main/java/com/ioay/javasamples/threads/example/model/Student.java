@@ -1,4 +1,4 @@
-package com.ioay.javasamples.threads.main.example.model.model;
+package com.ioay.javasamples.threads.example.model;
 
 public class Student {
 

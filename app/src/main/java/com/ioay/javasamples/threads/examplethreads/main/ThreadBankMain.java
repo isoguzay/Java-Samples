@@ -1,6 +1,6 @@
-package com.ioay.javasamples.threads.main.examplethreads.main;
+package com.ioay.javasamples.threads.examplethreads.main;
 
-import com.ioay.javasamples.threads.main.examplethreads.model.Bank;
+import com.ioay.javasamples.threads.examplethreads.model.Bank;
 
 public class ThreadBankMain {
 
